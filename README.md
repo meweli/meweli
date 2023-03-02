@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome to my GitHub 👋
+I'm Elisa Levy 😸, currently a UX / UI student.
+ 
+My background is:
+
+    💻 Fullstack Web Dev (bootcamp)
+    📖 Phylology (major)
+    💭 Phylosophy (masters)
 
 <!--
 **meweli/meweli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
