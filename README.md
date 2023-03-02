@@ -1,5 +1,5 @@
 # Welcome to my GitHub 👋
-I'm Elisa Levy 😸, currently a UX / UI student.
+I'm Elisa Levy 😸 - currently a UX / UI student.
  
 My background is:
 
