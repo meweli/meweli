@@ -3,9 +3,9 @@ I'm Elisa Levy 😸 - currently full stack and UX/UI
  
 My background is:
      
-    💻 Fullstack Web Dev (bootcamp)
+    💻 Fullstack Web Dev 
     📖 Philology (major)
-    💭 Philosophy (masters- 
+    💭 Philosophy (masters)
     
 
 
