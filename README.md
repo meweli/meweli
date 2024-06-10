@@ -1,9 +1,10 @@
 # Welcome to my GitHub 👋
 I'm Elisa Levy 😸 - currently full stack and UX/UI
  
-My background is:
+My background:
      
     💻 Fullstack Web Dev 
+    🌱 Computer Engineer student
     📖 Philology (major)
     💭 Philosophy (masters)
     
