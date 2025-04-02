@@ -1,12 +1,6 @@
 # Welcome to my GitHub 👋
-I'm Elisa Levy 😸
+😸
  
-My background:
-     
-    💻 Fullstack Web Dev 
-    🌱 Computer Engineer student
-    📖 Philology (major)
-    💭 Philosophy (masters)
     
 
 
