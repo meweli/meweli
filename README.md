@@ -1,5 +1,5 @@
 # Welcome to my GitHub 👋
-I'm Elisa Levy 😸 - currently Technical Product Manager
+I'm Elisa Levy 😸
  
 My background:
      
